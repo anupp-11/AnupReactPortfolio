@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "name": "Anup Poudel",
+      "titles": [ "Sr. Front-end Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/anupp-11",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/anupp11",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/anupp4456",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/anupp4456",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "mypic.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": ".Net",
+          "class": "devicon-dotnetcore-plain",
+          "level": "60"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
