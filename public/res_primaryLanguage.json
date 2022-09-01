@@ -1,0 +1,135 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Anup Poudel. I am an experienced developer with a solid background in web app and mobile app development. As a frontend developer, I am well acquainted with Angular, React Native, React Frameworks. I have sound experience in ASP .NET as well. I am proficient in a variety of platforms and systems. I am looking for a growth opportunity and to relocation on a global level.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "SECC Sydney",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": "Dotnet"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongo DB"
+          }
+        ]
+      },
+      {
+        "title": "FND Australia",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Tournament Manager",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Varietec IT",
+        "title": "Sr. Frontend Developer",
+        "years": "May 2021 - Present",
+        "mainTech": [
+          "React native"
+        ],
+        "technologies": [
+          "React",
+          "Angular",
+          "ASP .NET",
+          "Mongodb",
+          "Postgres",
+          "Mysql"
+        ]
+      },
+      {
+        "company": "Freelancing",
+        "title": "Freelancer",
+        "years": "April 2020 - May 2021",
+        "mainTech": [
+          "React native"
+        ],
+        "technologies": [
+          "React",
+          "Angular",
+          "Bootstrap",
+          "Angular Material",
+          "Typescript",
+          "Javascript"
+        ]
+      },
+      {
+        "company": "SYF Foundation",
+        "title": "CTO |Graphics Designer",
+        "years": "Jan 2018 - Aug 2021",
+        "mainTech": [
+          "Photoshop"
+        ],
+        "technologies": [
+          "Photoshop",
+          "After Effects",
+          "Premier Pro",
+          "Figma",
+          "Adobe XD"
+        ]
+      }
+    ]
+  }
